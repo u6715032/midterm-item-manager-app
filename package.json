@@ -1,8 +1,11 @@
 {
   "name": "midterm-item-manager-app",
+  "homepage": "https://github.com/u6715032/midterm-item-manager-app.git",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
